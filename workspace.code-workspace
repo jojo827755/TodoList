@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\ESB"
+		},
+		{
+			"path": "..\\coursea"
+		},
+		{
+			"path": "..\\Project FinaI SchooI"
+		},
+		{
+			"path": "..\\JsonServer"
+		},
+		{
+			"path": "..\\TryJS"
+		},
+		{
+			"path": "..\\ProjectJSCD"
+		},
+		{
+			"path": "..\\projectIib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project FinaI SchooI"
+	}
+}
